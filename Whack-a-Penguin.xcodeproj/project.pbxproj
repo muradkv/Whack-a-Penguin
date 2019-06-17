@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FA6BD8CB22B82DA4007CB8A5 /* WhackSlot.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA6BD8CA22B82DA4007CB8A5 /* WhackSlot.swift */; };
 		FA741C4A22B18C9E0019C55C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA741C4922B18C9E0019C55C /* AppDelegate.swift */; };
 		FA741C4C22B18C9E0019C55C /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = FA741C4B22B18C9E0019C55C /* GameScene.sks */; };
 		FA741C5022B18C9E0019C55C /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA741C4F22B18C9E0019C55C /* GameScene.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FA6BD8CA22B82DA4007CB8A5 /* WhackSlot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhackSlot.swift; sourceTree = "<group>"; };
 		FA741C4622B18C9E0019C55C /* Whack-a-Penguin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Whack-a-Penguin.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA741C4922B18C9E0019C55C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FA741C4B22B18C9E0019C55C /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				FA741C4B22B18C9E0019C55C /* GameScene.sks */,
 				FA741C4F22B18C9E0019C55C /* GameScene.swift */,
 				FA741C5122B18C9E0019C55C /* GameViewController.swift */,
+				FA6BD8CA22B82DA4007CB8A5 /* WhackSlot.swift */,
 				FA741C5322B18C9E0019C55C /* Main.storyboard */,
 				FA741C5622B18C9F0019C55C /* Assets.xcassets */,
 				FA741C5822B18C9F0019C55C /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 			files = (
 				FA741C5022B18C9E0019C55C /* GameScene.swift in Sources */,
 				FA741C5222B18C9E0019C55C /* GameViewController.swift in Sources */,
+				FA6BD8CB22B82DA4007CB8A5 /* WhackSlot.swift in Sources */,
 				FA741C4A22B18C9E0019C55C /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
